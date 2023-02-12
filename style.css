@@ -1033,7 +1033,11 @@ h4 {
     p {
         font-size: 14px;
     }
-
+    /** FERNAND : format Citation **/
+    .col-xs-12 img {
+        width: 500px;
+        height: 145px;
+    }
 }
 
 @media (max-width: 400px) {
