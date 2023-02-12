@@ -1033,10 +1033,18 @@ h4 {
     p {
         font-size: 14px;
     }
+
     /** FERNAND : format Citation **/
     .col-xs-12 img {
         width: 450px;
         height: 115px;
+    }
+
+    /** FERNAND : format Citation **/
+    .social {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
     }
 }
 
