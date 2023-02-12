@@ -285,8 +285,9 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 45px;
+    font-size: 32px;
     color:#FFFFFF;
+    filter: brightness(110%);
 }
 
 .navbar {
@@ -1039,12 +1040,17 @@ h4 {
         width: 450px;
         height: 115px;
     }
-    
+
     /** FERNAND : format Citation **/
     .social {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+    }
+
+    /** FERNAND : texte avant RS **/
+    #bloc-5-cta h2 {
+        filter: brightness(110%);
     }
 }
 
