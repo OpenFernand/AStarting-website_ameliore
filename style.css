@@ -1050,7 +1050,7 @@ h4 {
 
     /** FERNAND : texte avant RS **/
     #bloc-5-cta h2 {
-        filter: brightness(110%);
+        filter: brightness(190%) !important;
     }
 }
 
