@@ -666,6 +666,16 @@ a {
     font-size: 38px;
 }
 
+/** FERNAND **/
+#bloc-6 h1 {
+    filter: brightness(1.2) !important;
+}
+
+/** FERNAND **/
+#bloc-6 p {
+    filter: brightness(1.2) !important;
+}
+
 .hero-bloc-text-sub {
     font-size: 36px;
 }
