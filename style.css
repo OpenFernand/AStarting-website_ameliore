@@ -715,7 +715,7 @@ p {
 
 .social {
     max-width: 400px;
-    margin: 25px auto auto auto;
+    margin: auto auto auto auto;
 }
 
 h2 {
@@ -750,7 +750,7 @@ h4 {
 }
 
 .white {
-    color: #000000!important;
+    color: #FFFFFF!important;
 }
 
 .portfolio-thumb {
